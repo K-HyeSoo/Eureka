@@ -12,4 +12,5 @@ public class EurekaServerApplication {
         SpringApplication.run(EurekaServerApplication.class, args);
     }
 
+    // 주석 테스트
 }
