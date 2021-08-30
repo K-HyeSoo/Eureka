@@ -11,6 +11,7 @@ public class EurekaServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(EurekaServerApplication.class, args);
         
-        // 주서줏거숮석
+        // 주서줏거숮
+        //주석
     }
 }
