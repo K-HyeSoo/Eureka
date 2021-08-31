@@ -11,6 +11,6 @@ public class EurekaServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(EurekaServerApplication.class, args);
         
-        // jenkins 자동 빌드 테스트 12
+        // jenkins 자동 빌드 테스트 13
     }
 }
