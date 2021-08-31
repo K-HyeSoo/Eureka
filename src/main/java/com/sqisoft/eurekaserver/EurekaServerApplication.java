@@ -12,5 +12,6 @@ public class EurekaServerApplication {
         SpringApplication.run(EurekaServerApplication.class, args);
         
         // jenkins 자동 빌드 테스트 14
+        // smee.io를 이용한 자동 빌드 테스트 1
     }
 }
