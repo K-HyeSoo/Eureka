@@ -10,7 +10,7 @@ public class EurekaServerApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EurekaServerApplication.class, args);
-        
-        // smee.io를 이용한 자동 빌드 테스트 2
+
+        // smee.io를 이용한 자동 빌드 테스트 3
     }
 }
